@@ -33,7 +33,5 @@ There is also a rule in the Makefile to clean the output of the compilation, for
 
 `make clean`
 
-For better organization, there will be added in future an output directory, to keep the executable.
-
 
 
